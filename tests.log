@@ -1,0 +1,25 @@
+20.06.2022 14:56:40.292 [main] INFO   i.g.b.w.WebDriverManager - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+20.06.2022 14:56:40.368 [main] INFO   i.g.b.w.WebDriverManager - Reading https://chromedriver.storage.googleapis.com/ to seek chromedriver
+20.06.2022 14:56:40.954 [main] INFO   i.g.b.w.o.Downloader - Downloading https://chromedriver.storage.googleapis.com/102.0.5005.61/chromedriver_win32.zip
+20.06.2022 14:56:42.218 [main] INFO   i.g.b.w.o.Downloader - Extracting driver from compressed file chromedriver_win32.zip
+20.06.2022 14:56:42.324 [main] INFO   i.g.b.w.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Валерия\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+20.06.2022 14:56:56.435 [main] INFO   Test-Case's 1-6 - Тест-кейс №1 пройден
+20.06.2022 14:57:01.272 [main] INFO   Test-Case's 1-6 - Тест-кейс №2 пройден
+20.06.2022 14:57:36.000 [main] INFO   i.g.b.w.WebDriverManager - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+20.06.2022 14:57:36.034 [main] INFO   i.g.b.w.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Валерия\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+20.06.2022 14:57:49.193 [main] INFO   Test-Case's 1-6 - Тест-кейс №5 пройден
+20.06.2022 14:57:58.787 [main] INFO   Test-Case's 1-6 - Тест-кейс №6 пройден
+20.06.2022 14:58:24.364 [main] INFO   i.g.b.w.WebDriverManager - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+20.06.2022 14:58:24.392 [main] INFO   i.g.b.w.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Валерия\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+20.06.2022 14:58:36.315 [main] INFO   Test-Case's 1-6 - Тест-кейс №3 пройден
+20.06.2022 14:58:40.176 [main] INFO   Test-Case's 1-6 - Тест-кейс №4 пройден
+20.06.2022 15:31:55.249 [main] INFO   i.g.b.w.WebDriverManager - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+20.06.2022 15:31:55.273 [main] INFO   i.g.b.w.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Валерия\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+20.06.2022 15:32:09.582 [main] INFO   Test-Case's 1-6 - Тест-кейс №5 пройден
+20.06.2022 15:32:19.665 [main] INFO   Test-Case's 1-6 - Тест-кейс №6 пройден
+20.06.2022 15:36:29.248 [main] INFO   i.g.b.w.WebDriverManager - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+20.06.2022 15:36:29.285 [main] INFO   i.g.b.w.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Валерия\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+20.06.2022 15:36:42.756 [main] INFO   Test-Case's 1-6 - Тест-кейс №5 пройден
+20.06.2022 15:39:35.462 [main] INFO   i.g.b.w.WebDriverManager - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+20.06.2022 15:39:35.494 [main] INFO   i.g.b.w.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Валерия\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+20.06.2022 15:39:49.277 [main] INFO   Test-Case's 1-6 - Тест-кейс №6 пройден
